@@ -1,0 +1,3 @@
+header { background: #fff; }
+footer { color: #1a2b3c; }
+div { border-color: #abcdef12; }
